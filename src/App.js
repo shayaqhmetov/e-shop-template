@@ -1,6 +1,6 @@
 import './App.css';
 
-import HomePage from './homepage.template';
+import HomePage from './pages/homepage/homepage.template';
 
 const App = () => {
   return (
